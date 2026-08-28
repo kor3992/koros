@@ -1,0 +1,9 @@
+systemd
+sudo
+bash
+fish
+nano
+curl
+wget
+ca-certificates
+network-manager
