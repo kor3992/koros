@@ -1,0 +1,5 @@
+output/
+rootfs/
+build/
+*.iso
+*.squashfs
