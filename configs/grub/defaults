@@ -1,0 +1,26 @@
+# ============================================================
+# KorOS GRUB Configuration
+# ============================================================
+
+# Show boot menu
+GRUB_TIMEOUT_STYLE=menu
+
+# KorOS boot timer
+GRUB_TIMEOUT=60
+
+# Default boot entry
+GRUB_DEFAULT=0
+
+# Detect other operating systems later
+GRUB_DISABLE_OS_PROBER=false
+
+# Graphics mode
+GRUB_GFXMODE=auto
+
+# Theme
+GRUB_THEME="/boot/grub/themes/koros/theme.txt"
+
+# Kernel parameters
+GRUB_CMDLINE_LINUX_DEFAULT=""
+
+GRUB_CMDLINE_LINUX=""

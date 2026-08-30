@@ -1,0 +1,12 @@
+sudo
+nano
+curl
+wget
+ca-certificates
+network-manager
+git
+btop
+nala
+aptitude
+flatpak
+

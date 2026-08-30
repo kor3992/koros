@@ -1,3 +1,4 @@
+# KorOS base packages
 systemd
 sudo
 bash
@@ -11,3 +12,4 @@ fish
 fastfetch
 btop	
 alacritty
+git

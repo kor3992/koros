@@ -1,0 +1,5 @@
+#If You are seeing this:
+#WHY
+grub-pc
+grub-common
+grub2-common

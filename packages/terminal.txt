@@ -1,0 +1,5 @@
+#KorOS Terminal Packs
+fish
+fastfetch
+alacritty
+

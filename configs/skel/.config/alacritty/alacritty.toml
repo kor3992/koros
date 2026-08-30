@@ -1,0 +1,11 @@
+# ============================================================
+# KorOS Alacritty Configuration
+# ============================================================
+[window]
+opacity = 0.92
+dynamic_title = true
+decorations = "Full"
+
+[cursor]
+style = "Block"
+unfocused_hollow = true
