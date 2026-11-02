@@ -1,0 +1,40 @@
+# Build output
+/build/
+/out/
+/work/
+
+# ISO images
+*.iso
+*.iso.sig
+
+# Archives
+*.tar
+*.tar.gz
+*.tar.zst
+*.zip
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*~
+
+# Cache
+.cache/
+__pycache__/
+*.pyc
+
+# Editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials
+.env
+.env.*
+*.pem
+*.key
